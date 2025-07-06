@@ -23,7 +23,4 @@ This repository contains a verified archive of my technical certifications and p
 )
 ----
 
-### 3. HIL Fundamentals Using VeriStand 
-- 🏢 Issued by: NI Training
-- 📅 Date: Sep 2024
-- 📄 [View Certificate (PDF)](./Onur Kovan_11 Sep - 13 Sep 2024_HIL Fundamentals Using VeriStand _Certificate.pdf)
+
