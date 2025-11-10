@@ -36,8 +36,20 @@ This repository contains a verified archive of my technical certifications and p
 - 📄 [View Certificate (PDF)](./onur-kovan-dded546d-99b9-4200-a151-7b065fb6540b-certificate.pdf)
 ----
 
-### 5. LabVIEW Core 3
+### 5. HIL Fundemantals Using Veristand
+- 🏢 Issued by: National Instruments
+- 📅 Date: September 2024
+- 📄 [View Certificate (PDF)](./Onur_Kovan_11_Sep_13_Sep_2024_HIL_Fundamentals_Using_VeriStand_Certificate.pdf
+)
+----
+
+### 6. LabVIEW Core 3
 - 🏢 Issued by: National Instruments
 - 📅 Date: October 2024
 - 📄 [View Certificate (PDF)](./Onur_Kovan_09_October_11_October_2024_LabVIEW_Core_3_Certificate.pdf)
 ----
+
+### 7. LabVIEW Core 1 & 2
+- 🏢 Issued by: National Instruments
+- 📅 Date: May 2019
+- 📄 [View Certificate (PDF)](./Onur_Kovan_Core1&2_Certificate.pdf)
