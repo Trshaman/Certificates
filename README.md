@@ -1,6 +1,5 @@
-# Certificates
-
 # Onur Kovan – Certification Archive
+
 
 This repository contains a verified archive of my technical certifications and professional training documents. You can use the direct links below to access each certificate.
 
